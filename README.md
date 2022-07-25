@@ -6,3 +6,4 @@ Detecting Hand Tremor Signals in Parkinson affected patients
 
 With millions affected worldwide, and multiple personally close cases, a solution that could enable their hands to function properly outside would have a huge social, physical and mental impact.
 
+![alt text](https://github.com/rachit-0032/iStopTremors/blob/94e6e7d7b03d9690728095c11d41e83f1fea372f/DISA%202019%20-%20Hand%20Glove%20Prototype.png?raw=true)
